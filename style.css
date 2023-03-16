@@ -675,10 +675,10 @@ body{
                 1750px 20px #ff0000, 850px 1800px #ff0000, 650px 600px #ff0000,1200px 850px #ff0000,
                 1800px 600px #ff0000, 350px 1700px #ff0000, 450px 1650px #ff0000, 1500px 700px #ff0000,
                 900px 550px #ff0000, 150px 800px #ff0000, 1200px 600px #ff0000,1100px 1350px #ff0000,
-                750px 1050px #ff0000, 350px 800px #ff0000, 700px 1100px #ff0000,1650px 1350px #173A3F,
-                1450px 1600px #CDDC39, 150px 1400px #FFF, 1200px 1450px #03A9F4, 1800px 1050px #FFF,
-                1250px 1300px #CDDC39, 1000px 1000px #4CAF50, 100px 1250px #9C27B0, 700px 1750px #ff0000,
-                1950px 250px #FFF, 1550px 700px #F44336;
+                750px 1050px #ff0000, 350px 800px #ff0000, 700px 1100px #ff0000,1650px 1350px #ff0000,
+                1450px 1600px #ff0000, 150px 1400px #ff0000, 1200px 1450px #ff0000, 1800px 1050px #ff0000,
+                1250px 1300px #ff0000, 1000px 1000px #ff0000, 100px 1250px #ff0000, 700px 1750px #ff0000,
+                1950px 250px #ff0000, 1550px 700px #ff0000;
 
     animation: starsUp 50s linear infinite;
 }
@@ -707,7 +707,7 @@ body{
                 1750px 20px #ff0000, 850px 1800px #ff0000, 650px 600px #ff0000,1200px 850px #ff0000,
                 1800px 600px #ff0000, 350px 1700px #ff0000, 450px 1650px #ff0000, 1500px 700px #ff0000,
                 900px 550px #ff0000, 150px 800px #ff0000, 1200px 600px #ff0000,1100px 1350px #ff0000,
-                750px 1050px #ff0000, 350px 800px #ff0000, 700px 1100px #ff0000,1650px 1350px #173A3F,
+                750px 1050px #ff0000, 350px 800px #ff0000, 700px 1100px #ff0000,1650px 1350px #ff0000,
                 1450px 1600px #ff0000, 150px 1400px #ff0000, 1200px 1450px #ff0000, 1800px 1050px #ff0000,
                 1250px 1300px #ff0000, 1000px 1000px #ff0000, 100px 1250px #ff0000, 700px 1750px #ff0000,
                 1950px 250px #ff0000, 1550px 700px #ff0000;
