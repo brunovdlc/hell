@@ -13,7 +13,7 @@
       });
 
       var audio = new Audio();
-      var source = 'audio.mp3';
+      var source = 'tz.mp3';
   
       audio.volume = 0.5;
       audio.autoplay = true;
@@ -41,7 +41,3 @@
       })
 
 })();
-
-$(window).on('load', function() {
-  $('#sound').css('visibility', 'visible');
-});
